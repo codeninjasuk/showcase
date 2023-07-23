@@ -2,7 +2,7 @@
 layout: post
 title:  "Launch of Showcase"
 categories: [ updates ]
-image: assets/images/1.jpg
+image: assets/images/5.jpg
 ---
 
 We are thrilled to announce the grand launch of our brand-new platform, the "Ninja's Creators Hub"! 🎈 This exciting initiative is designed to showcase the incredible talent and creativity of the young minds in our dojo. We believe that nurturing creativity and providing a platform for expression are essential in shaping the future leaders and innovators of tomorrow.

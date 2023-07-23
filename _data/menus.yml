@@ -23,12 +23,16 @@ footermenu:
 - title: Home
   url: ""
 
+- title: Code Ninjas Dojo
+  url: "https://codeninjaslangley.co.uk"
+  external: true
+
 - title: Privacy Policy
   url: "privacy-policy/"
 
 - title: Contact
   url: "contact/"
 
-- title: Download
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/  
+- title: YouTube Channel
+  url: https://www.youtube.com/channel/UC_TJJk5_k-uc40hqWIViOAQ  
   external: true

@@ -1,7 +1,7 @@
 title: "Showcase | Code Ninjas Langley"
 email: showcase@codeninjaslangley.co.uk
 timezone: UTC
-baseurl: "/"
+baseurl: ""
 permalink: "/:categories/:title/"
 logo: 'assets/images/favicon.png'
 favicon: 'assets/images/favicon.png'
@@ -32,12 +32,12 @@ authors:
     web: https://www.wowthemes.net/category/jekyll-themes/
     twitter: https://twitter.com/wowthemesnet
     description: ""
-  camp_23:
+  camp:
     name: Camps
-    display_name: Dojo Camps
-    avatar: 'assets/images/john.png'
+    display_name: Camps
+    avatar: 'assets/images/favicon.png'
     email: camps@codeninjaslangley.co.uk
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
+    description: "Content created by kids in our creative and fun camps that are held during the summer and all year round!"
   ninjas:
     name: Ninjas
     display_name: Ninjas
@@ -47,8 +47,8 @@ authors:
 
 # Social
 social:
-  instagram: https://www.instagram.com/bootstrapstarter/
-  facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
+  instagram: https://www.instagram.com/codeninjaslangley
+  facebook: https://www.facebook.com/CodeNinjasLangley
   twitter: https://twitter.com/bstartercom
 
 # Plugins

@@ -5,15 +5,15 @@ topmenu:
   url: ""
 
 - title: Join Us
-  url: "https://codeninjasuk.github.io"
+  url: "https://codeninjaslangley.co.uk"
   external: true
 
-- title: Contact
-  url: "https://codeninjasuk.github.io/about"
+- title: About
+  url: "https://codeninjaslangley.co.uk/about"
   external: true
 
 - title: Become a Ninja  
-  url: "https://codeninjasuk.github.io"
+  url: "https://codeninjaslangley.co.uk"
   class: "ml-2 btn btn-dark text-white px-3"
   external: true
 

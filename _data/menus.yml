@@ -31,7 +31,8 @@ footermenu:
   url: "privacy-policy/"
 
 - title: Contact
-  url: "contact/"
+  url: "https://codeninjaslangley.co.uk"
+  external: true
 
 - title: YouTube Channel
   url: https://www.youtube.com/channel/UC_TJJk5_k-uc40hqWIViOAQ  

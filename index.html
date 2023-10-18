@@ -11,8 +11,8 @@ permalink: /
 <div class="rounded mb-5 hero">
   <div class="row align-items-center justify-content-between">
     <div class="col-md-6">
-      <h1 class="font-weight-bold mb-4 text-white serif-font">Showcase</h1>
-      <h3 class="font-weight-bold text-white serif-font text-warning">Ninja's Creator Hub</h3>
+      <h1 class="font-weight-bold mb-5 text-white">Showcase</h1>
+      <h3 class="font-weight-bold text-white text-warning">Ninja's Creator Hub</h3>
       <p class="lead mb-4 text-white">Our bright & creative ninjas have created masterpieces that are showcased here.</p>
       <p class="text-white">
         Haven't Heard about Code Ninjas? </br>
@@ -21,7 +21,7 @@ permalink: /
       
     </div>
     <div class="col-md-6 text-right pl-0 pl-lg-4">
-      <img class="intro" height="500" src="{{site.baseurl}}/assets/images/through-the-window.svg">      
+      <img class="intro" height="500" src="{{site.baseurl}}/assets/images/camp-fun.webp">      
     </div>
   </div>
 </div>
@@ -29,7 +29,11 @@ permalink: /
 
 <!-- Featured
 ================================================== -->
+
+
+
 <section class="row">
+  <h2 class="m-3">Check out our Creations!</h2>
   {% for post in site.posts %}
       {% if post.featured == true %}
           <div class="col-md-4 mb-5">

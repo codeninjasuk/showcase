@@ -26,10 +26,10 @@ The Hack-a-thon took place on October 28th and saw young participants engaged in
 <div class="card"> 
     <img class="card-img-top makecode-preview" src= "{{page.image}}"> 
     <div class="card-img-overlay card-inverse text-center mx-auto" text-center> 
-        <h4 class="text-stroke text-white pt-5"> 
+        <h4 class="text-stroke text-white">  
             {{page.creator}}'s Game
         </h4> 
-        <div class="card-body text-center mx-auto pt-5"> 
+        <div class="card-body text-center mx-auto"> 
             <button onclick="window.open('{{page.gamelink}}')" class="makecode-btn">
                 <i class="fa fa-play mr-2"></i>
                 Play the Game

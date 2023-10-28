@@ -22,13 +22,16 @@ Just customize your theme here.
 .makecode-btn > i{
     font-size: 80px;
     width: 100%;
+    cursor: pointer;
 }
+
 
 .makecode-btn:hover{
     background: #5cafb8;
-    color: #01606b;
+    /* color: #01606b; */
 }
 
 .makecode-preview{
-    filter: opacity(0.5);
+    filter: blur(3px) opacity(0.3);
+
 }

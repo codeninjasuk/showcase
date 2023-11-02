@@ -2,12 +2,11 @@
 layout: post
 title:  "Hack-o-Lantern Creations"
 categories: [ hackolantern, "2023", game ]
-creator: "Julian"
-gamelink: "https://arcade.makecode.com/79210-98619-00902-78203"
-image: "https://pxt.azureedge.net/api/79210-98619-00902-78203/thumb"
-# permalink: "/hackolantern/2023/prakriti-d"
----
+creator: "Abhimanyu K"
+gamelink: "https://arcade.makecode.com/56840-66284-19970-20395"
+image: "https://pxt.azureedge.net/api/56840-66284-19970-20395/thumb"
 
+---
 _Game Created by {{page.creator}}_
 
 ## Hack-a-thon: Coding for a Great Cause

@@ -6,7 +6,7 @@ permalink: "/:categories/:title/"
 logo: 'assets/images/favicon.png'
 favicon: '/assets/images/favicon.png'
 author: CN Admin
-paginate: 30
+paginate: 50
 disqus: ''
 locale: en_us
 lang: en_us

@@ -2,7 +2,7 @@
 layout: post
 title:  "Hack-o-Lantern 2023"
 categories: [ updates, event ]
-image: assets/images/events/hack-o-lantern-banner-sm.png
+image: /assets/images/events/hack-o-lantern-banner-sm.png
 permalink: "/hack-o-lantern"
 ---
 

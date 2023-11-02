@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Hack-o-Lantern Game Submission"
-categories: [ hackolantern, "2023" ]
+categories: [ hackolantern, "2023", game ]
 creator: "Prakriti D"
-gamelink: "https://arcade.makecode.com/60271-33871-46844-52979"
+gamelink: "https://arcade.makecode.com/51716-51518-34934-26786"
 image: "/assets/images/hack/2023/prakriti-d.png"
 # permalink: "/hackolantern/2023/prakriti-d"
 ---

@@ -35,3 +35,15 @@ Just customize your theme here.
     filter: blur(3px) opacity(0.3);
 
 }
+
+.post-tag-box{
+    margin-bottom: 10px;
+}
+
+.post-tag {
+    background: rgb(231, 231, 231);
+    margin-right: 5px;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-variant-caps: all-small-caps;
+}

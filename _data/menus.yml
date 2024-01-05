@@ -4,6 +4,9 @@ topmenu:
 - title: Home
   url: ""
 
+- title: Games
+  url: "games/"
+
 - title: Join Us
   url: "https://codeninjaslangley.co.uk"
   external: true

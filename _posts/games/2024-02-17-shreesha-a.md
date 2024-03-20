@@ -1,13 +1,12 @@
 ---
 layout: post
-title:  "Game | Ho Ho Ho!"
-categories: [ christmas, "2023", game  ]
-creator: "Ekam K"
-gamelink: "https://arcade.makecode.com/61128-01953-82826-13919"
-image: "https://pxt.azureedge.net/api/61128-01953-82826-13919/thumb"
+title:  "Game | Chicken Run"
+categories: [ white-belt, "2024", game, a  ]
+creator: "Shreesha A"
+gamelink: "https://arcade.makecode.com/73810-26175-19164-70108"
+image: "https://pxt.azureedge.net/api/73810-26175-19164-70108/thumb"
+
 ---
-
-
 _Game Created by {{page.creator}}_
 
 ## Code Ninjas - IMPACT
@@ -20,7 +19,10 @@ During White & Yellow belts, your child will learn coding concepts and begin dev
 
 
 ### Creator:
-{{page.creator}} created this game as part of the Christmas Activity in December 2023!
+{{page.creator}} created this game as on the journey through White Belt!
+
+### Instructions:
+Maze Runner 3D, you know the drill!
 
 <div class="card"> 
     <img class="card-img-top makecode-preview" src= "{{page.image}}"> 
